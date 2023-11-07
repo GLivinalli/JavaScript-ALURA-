@@ -22,7 +22,7 @@ console.log("Let: ",areaLET)
 
 // CONST
 
-const formaCONST = "quadraddo";
+const formaCONST = "quadrado";
 const alturaCONST = 5;
 const comprimentoCONST = 7;
 let areaCONST;
