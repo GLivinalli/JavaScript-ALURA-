@@ -1,6 +1,12 @@
-
+// função 
 function imprimeTexto(texto) {
     console.log(texto)
 }
 
-imprimeTexto(32)
+imprimeTexto("hello world")
+
+function soma() {
+    return 2 + 2;
+}
+
+console.log(soma())
